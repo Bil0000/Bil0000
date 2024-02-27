@@ -19,6 +19,7 @@
 [![Mail Badge](https://img.shields.io/badge/-bilal.bakr.elsherif@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bilal.bakr.elsherif@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@bil00099-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bil00099)](https://twitter.com/bil00099)
 [![Mail Badge](https://img.shields.io/badge/-@bil0000-8A2BE2?style=flat&labelColor=8A2BE2&logo=discord&logoColor=white)](https://discordapp.com/users/1144295423314493490) 
+[![wakatime](https://wakatime.com/badge/user/018deacf-6dcc-4a6e-bcc6-1fc61b00ec09.svg)](https://wakatime.com/@018deacf-6dcc-4a6e-bcc6-1fc61b00ec09)
 [![](https://komarev.com/ghpvc/?username=bil0000&color=blue&label=Profile%20Views)](https://github.com/bil0000/bil0000)
 [![](https://img.shields.io/github/followers/bil0000?label=GitHub%20Followers)](https://github.com/bil0000)
 <br />
@@ -26,7 +27,6 @@
 ### Statistics
 
 <span><img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bil0000&layout=compact&hide=php&langs_count=6" /></span>
-<span><a href="https://wakatime.com/@bil0000"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=bil0000&layout=compact&langs_count=6" /></a></span>
 <span><a href="https://github.com/bil0000?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=bil0000&show_icons=true&count_private=true&hide=contribs" /></a></span>
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=bil0000" height="150" alt="Stat Streak" /></span>
 
