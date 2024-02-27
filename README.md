@@ -27,6 +27,7 @@
 ### Statistics
 
 <span><img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bil0000&layout=compact&hide=php&langs_count=6" /></span>
+<span><a href="https://wakatime.com/@bil0000"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=bil0000&layout=compact&langs_count=6" /></a></span>
 <span><a href="https://github.com/bil0000?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=bil0000&show_icons=true&count_private=true&hide=contribs" /></a></span>
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=bil0000" height="150" alt="Stat Streak" /></span>
 
