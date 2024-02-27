@@ -15,11 +15,11 @@
 
 ####  Let's get in touch! Feel free to DM me for discussion!
 
-[![Linkedin Badge](https://www.linkedin.com/in/bilal-bakr-3557b9207) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Aulia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aulianza/)
 [![Mail Badge](bilal.bakr.elsherif@gmail.com) 
 [![Twitter Badge](https://twitter.com/bil00099) 
-[![](https://komarev.com/ghpvc/?username=aulianza&color=blue&label=Profile%20Views)](https://github.com/aulianza/aulianza)
-[![](https://img.shields.io/github/followers/aulianza?label=GitHub%20Followers)](https://github.com/aulianza)
+[![](https://komarev.com/ghpvc/?username=bil0000&color=blue&label=Profile%20Views)](https://github.com/bil0000/bil0000)
+[![](https://img.shields.io/github/followers/bil0000?label=GitHub%20Followers)](https://github.com/bil0000)
 <br />
 
 ### Statistics
