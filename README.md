@@ -1,3 +1,29 @@
+<h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm Bilal</h1>
+
+<p align="left">
+  <samp>.
+        <a href="https://bilalbakr-port.bil0009.repl.co" target='_blank'>website & portfolio</a>
+  </samp>
+</p>
+
+- 🏢 I'm currently working remotely as a full-stack software engineer at [Seeru](https://seeru.com).
+- ⚛️ I'm currently diving into the world of [Flutter](https://flutter.dev) and [Nest.js](https://nestjs.com).
+- ♻️ I'm on the lookout for collaboration opportunities in open source projects related to Flutter & Nest.js.
+- 💬 Feel free to ask me anything.
+- 😄 Pronouns: he/him
+
+
+####  Let's get in touch! Feel free to DM me for discussion!
+
+[![Linkedin Badge](https://www.linkedin.com/in/bilal-bakr-3557b9207) 
+[![Mail Badge](bilal.bakr.elsherif@gmail.com) 
+[![Twitter Badge](https://twitter.com/bil00099) 
+[![](https://komarev.com/ghpvc/?username=aulianza&color=blue&label=Profile%20Views)](https://github.com/aulianza/aulianza)
+[![](https://img.shields.io/github/followers/aulianza?label=GitHub%20Followers)](https://github.com/aulianza)
+<br />
+
+### Statistics
+
 ![Bil0000](https://github-profile-trophy.vercel.app/?username=Bil0000&margin-w=20)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bil0000&show_icons=true&theme=merko)
