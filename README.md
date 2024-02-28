@@ -18,7 +18,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Bilal%20Bakr-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-bakr-3557b9207)
 [![Mail Badge](https://img.shields.io/badge/-bilal.bakr.elsherif@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bilal.bakr.elsherif@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@bil00099-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bil00099)](https://twitter.com/bil00099)
-[![Mail Badge](https://img.shields.io/badge/-@bil0000-8A2BE2?style=flat&labelColor=8A2BE2&logo=discord&logoColor=white)](https://discordapp.com/users/1144295423314493490) 
+[![Mail Badge](https://img.shields.io/badge/-@bil0000-8A2BE2?style=flat&labelColor=8A2BE2&logo=discord&logoColor=white)](https://discordid.netlify.app/?id=1144295423314493490) 
 [![wakatime](https://wakatime.com/badge/user/018deacf-6dcc-4a6e-bcc6-1fc61b00ec09.svg)](https://wakatime.com/@018deacf-6dcc-4a6e-bcc6-1fc61b00ec09)
 [![](https://komarev.com/ghpvc/?username=bil0000&color=blue&label=Profile%20Views)](https://github.com/bil0000/bil0000)
 [![](https://img.shields.io/github/followers/bil0000?label=GitHub%20Followers)](https://github.com/bil0000)
