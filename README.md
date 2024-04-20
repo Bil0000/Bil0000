@@ -2,7 +2,7 @@
 
 <p align="left">
   <samp>.
-        <a href="https://bilalbakr-port.bil0009.repl.co" target='_blank'>website & portfolio</a>
+        <a href="https://my-portfolio-pi-nine-65.vercel.app" target='_blank'>website & portfolio</a>
   </samp>
 </p>
 
