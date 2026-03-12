@@ -6,9 +6,9 @@
   </samp>
 </p>
 
-- 🏢 I'm currently working remotely as a full-stack software engineer at [Seeru](https://seeru.com).
-- ⚛️ I'm currently diving into the world of [Flutter](https://flutter.dev) and [Nest.js](https://nestjs.com).
-- ♻️ I'm on the lookout for collaboration opportunities in open source projects related to Flutter & Nest.js.
+- 🏢 I'm currently working remotely as a full time Co-Founder & CTO at [Calendaty](https://calendaty.com).
+- ⚛️ I'm currently diving into the world of [React](https://react.dev) and [Nest.js](https://nestjs.com).
+- ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React & Nest.js.
 - 💬 Feel free to ask me anything.
 - 😄 Pronouns: he/him
 
